@@ -1,0 +1,7 @@
+
+<launch>
+
+<node name="odd_even_service_node" pkg="robot_tutorial" type="odd_even_service.py" />
+ <!-- <node name="odd_even_client_node" pkg="robot_tutorial" type="odd_even_client.py" /> -->
+
+</launch>

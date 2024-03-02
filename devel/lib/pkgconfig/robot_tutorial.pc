@@ -3,6 +3,6 @@ prefix=/home/vboxuser/catkin_ws/devel
 Name: robot_tutorial
 Description: Description of robot_tutorial
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/vboxuser/catkin_ws/devel/include
 Libs: -L${prefix}/lib 
 Requires: 
